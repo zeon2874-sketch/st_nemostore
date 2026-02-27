@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import sqlite3
 import matplotlib.pyplot as plt
-plt.rcParams['font.family'] = 'NanumGothic'
 import os
 
 # 페이지 설정
